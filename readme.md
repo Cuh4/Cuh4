@@ -16,7 +16,7 @@ I only speak English, just an FYI.
 
 ![Showcase](resources/showcase.png)
 This section will show off **most of my best** projects, check 'em out!
-#
+
 ### [**No More Oil Spills**](https://github.com/Cuh4/NoMoreOilSpills)
 This is an addon for Stormworks: Build and Rescue that is used by quite a lot of people within the game's community.
 #
@@ -28,5 +28,5 @@ This is yet another addon for Stormworks: Build and Rescue. This addon effective
 #
 ### [**Nextbot Addon**](https://github.com/Cuh4/NextbotAddon)
 This addon is quite scrapped, but I felt that the code was very clean hence why I plopped this here. 
-#
+
 > ⚠ **Note** - Check out more of my projects [here](https://github.com/Cuh4?tab=repositories). Note that some of my best projects are private.
