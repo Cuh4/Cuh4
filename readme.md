@@ -1,7 +1,7 @@
 ![(PFP) Cuh4](resources/cuh4.png)
 ![Information](resources/information.png)
 ### Heyo, I'm Cuh4.
-I am a **self-taught** programmer from the **United Kingdom** (yuck).
+I am a **self-taught** programmer from the **United Kingdom** (yuck) that absolutely sucks at crafting commit messages.
 I'm mainly known for **creating addons** in a videogame titled **Stormworks: Build and Rescue**. I also conveniently host a few [multiplayer servers (cuhHub)](https://discord.gg/zTQxaZjwDr) on the same game for people to play on and mess around together.
 
 I only speak English, just an FYI.
