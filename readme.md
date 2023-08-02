@@ -17,15 +17,15 @@ I only speak English, just an FYI.
 This section will show off **most of my best** projects, check 'em out!
 #
 ### [**No More Oil Spills**](https://github.com/Cuh4/NoMoreOilSpills)
-This is an addon for Stormworks: Build and Rescue that is used by quite a lot of people.
+This is an addon for Stormworks: Build and Rescue that is used by quite a lot of people within the game's community.
 #
 ### [**Aurora Framework**](https://github.com/Cuh4/AuroraFramework)
-This is an OOP-based framework that **greatly** helps with creating addons in Stormworks: Build and Rescue. The code is very clean, and the framework is overall helpful and reliable. All of my newer addons use this framework.
+This is an OOP-based framework that **greatly** helps with creating addons in Stormworks: Build and Rescue. The code is very clean and the framework is overall helpful and reliable. All of my newer addons use this framework.
 #
 ### [**All Creatures Hate You**](https://github.com/Cuh4/AllCreaturesHateYou)
 This is yet another addon for Stormworks: Build and Rescue. This addon effectively makes all creatures chase you down and kill you. The code is pretty clean too.
 #
 ### [**Nextbot Addon**](https://github.com/Cuh4/NextbotAddon)
 This addon is quite scrapped, but I felt that the code was very clean hence why I plopped this here. 
-# 
+#
 > ⚠ **Note** - Check out more of my projects [here](https://github.com/Cuh4?tab=repositories). Note that some of my best projects are private.
