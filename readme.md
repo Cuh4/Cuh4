@@ -8,7 +8,7 @@ I only speak English, just an FYI.
 
 
 ![Languages](resources/languages.png)
-- ### **Lua** | 2+ years - Quite experienced.
+- ### **Lua** - 2+ years - Quite experienced.
 - ### **Python** - 1 year - Pretty experienced.
 > ⚠ **Note** - I'm planning to learn more programming languages soon, particularly JavaScript so I can get into proper web development.
 
