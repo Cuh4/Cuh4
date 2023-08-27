@@ -8,10 +8,12 @@ I'm mainly known for **creating addons** in a videogame titled **Stormworks: Bui
 I only speak English, just an FYI.
 
 
+**Discord:** `@cuh6_` / `@cuh5_`
+
 ![Languages](resources/languages.png)
-- ### **Lua** - 2+ years - Quite experienced.
-- ### **Python** - 1 year - Pretty experienced.
-> ⚠ **Note** - I'm planning to learn more programming languages soon, particularly JavaScript so I can get into proper web development.
+- ### **`Lua`** | 2+ years - Very experienced.
+- ### **`Python`** | 1+ years - Quite experienced.
+> `⚠` **Note** - I'm planning to learn more programming languages soon, particularly JavaScript so I can get into proper web development.
 
 
 ![Showcase](resources/showcase.png)
@@ -29,4 +31,4 @@ This is yet another addon for Stormworks: Build and Rescue. This addon effective
 ### [**Nextbot Addon**](https://github.com/Cuh4/NextbotAddon)
 This addon is quite scrapped, but I felt that the code was very clean hence why I plopped this here. 
 
-> ⚠ **Note** - Check out more of my projects [here](https://github.com/Cuh4?tab=repositories). Note that some of my best projects are private.
+> `⚠` **Note** - Check out more of my projects [here](https://github.com/Cuh4?tab=repositories). Note that some of my best projects are private.
