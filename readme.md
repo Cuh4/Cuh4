@@ -22,14 +22,13 @@ I only speak English, just an FYI.
 ![Separator](resources/separator.png)
 
 ![Languages](resources/languages.png)
-<center>
-    <h1> 
-        <b>Lua</b> | 2+ years - Very experienced.
-    </h1>
-    <h1>
-        <b>Python</b> | 1+ years - Quite experienced.
-    </h1>
-</center>
+<div class="boldCenter">
+    Lua | 2+ years
+</div>
+
+<div class="boldCenter">
+    Python | 1+ years
+</div>
 
 > `⚠` **Note** - I'm planning to learn more programming languages soon, particularly JavaScript so I can get into proper web development.
 
