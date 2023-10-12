@@ -1,31 +1,35 @@
 ![(Profile Picture) Cuh4](resources/cuh4.png)
 
 ![Information](resources/information.png)
-### Heyo, I'm Cuh4.
+# Heyo, I'm Cuh4.
 <p align="center">
     I am a <b>self-taught</b> programmer from the <b>United Kingdom</b> (yuck) that absolutely sucks at crafting commit messages.
     I'm mainly known for<b>creating addons</b> in a videogame titled <b>Stormworks: Build and Rescue</b>. I also conveniently host a few <a href="https://dsc.gg/cuhhubsw">multiplayer servers (cuhHub)</a> on the same game for people to play on and mess around together.
 </p>
 
-<p align="center"> I only speak English, just an FYI. </p>
+<p align="center">
+    I only speak English, just an FYI.
+</p>
 
-<p align="center"> <b>Discord:</b> @cuh6_ </p>
+<p align="center">
+    <b>Discord:</b> @cuh6_
+</p>
 
 
 ![Separator](resources/separator.png)
 
 ![Languages](resources/languages.png)
-<h1>
+<h3>
     <p align="center">
         Lua | 2+ year(s)
     </p>
-</h1>
+</h3>
 
-<h1>
+<h3>
     <p align="center">
         Python | 1+ year(s)
     </p>
-</h1>
+</h3>
 
 > `⚠` **Note** - I'm planning to learn more programming languages soon, particularly JavaScript so I can get into proper web development.
 
