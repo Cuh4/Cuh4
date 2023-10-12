@@ -1,34 +1,30 @@
-<style>
-    div.boldCenter {
-        font-weight: bold;
-        text-align: center;
-        font-size: 25px;
-    }
-</style>
-
 ![(Profile Picture) Cuh4](resources/cuh4.png)
 
 ![Information](resources/information.png)
 ### Heyo, I'm Cuh4.
-<center>
+<p align="center">
 I am a <b>self-taught</b> programmer from the <b>United Kingdom</b> (yuck) that absolutely sucks at crafting commit messages.
 I'm mainly known for<b>creating addons</b> in a videogame titled <b>Stormworks: Build and Rescue</b>. I also conveniently host a few <a href="https://dsc.gg/cuhhubsw">multiplayer servers (cuhHub)</a> on the same game for people to play on and mess around together.
 
 I only speak English, just an FYI.
 
 **Discord:** `@cuh6_` / `@cuh5_`
-</center>
+</p>
 
 ![Separator](resources/separator.png)
 
 ![Languages](resources/languages.png)
-<div class="boldCenter">
-    Lua | 2+ years
-</div>
+<h1>
+    <p align="center">
+        Lua | 2+ year(s)
+    </p>
+</h1>
 
-<div class="boldCenter">
-    Python | 1+ years
-</div>
+<h1>
+    <p align="center">
+        Python | 1+ year(s)
+    </p>
+</h1>
 
 > `⚠` **Note** - I'm planning to learn more programming languages soon, particularly JavaScript so I can get into proper web development.
 
@@ -37,44 +33,52 @@ I only speak English, just an FYI.
 ![Showcase](resources/showcase.png)
 This section will show off **most of my best** projects, check 'em out!
 
-<div class="boldCenter">
-    <a href="https://github.com/Cuh4/NoMoreOilSpills">No More Oil Spills</a>
-</div>
+<h3>
+    <p align="center">
+        <a href="https://github.com/Cuh4/NoMoreOilSpills">No More Oil Spills</a>
+    </p>
+</h3>
 
-<center>
+<p align="center">
     This is an addon for Stormworks: Build and Rescue that is used by quite a lot of people within the game's community.
-</center>
+</p>
 
 #
 
-<div class="boldCenter">
-    <a href="https://github.com/Cuh4/AuroraFramework">Aurora Framework</a>
-</div>
+<h3>
+    <p align="center">
+        <a href="https://github.com/Cuh4/AuroraFramework">Aurora Framework</a>
+    </p>
+</h3>
 
-<center>
-    This is an OOP-based framework that **greatly** helps with creating addons in Stormworks: Build and Rescue. The code is very clean and the framework is overall helpful and reliable. All of my newer addons use this framework.
-</center>
+<p align="center">
+    This is an OOP-based framework that <b>significantly</b> helps with creating addons in Stormworks: Build and Rescue. The code is very clean and the framework is overall helpful and reliable. All of my newer addons use this framework.
+</p>
 
 #
 
-<div class="boldCenter">
-    <a href="https://github.com/Cuh4/AllCreaturesHateYou">All Creatures Hate You</a>
-</div>
+<h3>
+    <p align="center">
+        <a href="https://github.com/Cuh4/AllCreaturesHateYou">All Creatures Hate You</a>
+    </p>
+</h1>
 
-<center>
+<p align="center">
     This is yet another addon for Stormworks: Build and Rescue. This addon effectively makes all creatures chase you down and kill you. The code is pretty clean too.
-</center>
+</p>
 
 
 #
 
-<div class="boldCenter">
-    <a href="https://github.com/Cuh4/NextbotAddon">Nextbot Addon</a>
-</div>
+<h3>
+    <p align="center">
+        <a href="https://github.com/Cuh4/NextbotAddon">Nextbot Addon</a>
+    </p>
+</h3>
 
-<center>
+<p align="center">
     This addon is quite scrapped, but I felt that the code was very clean hence why I plopped this here. 
-</center>
+</p>
 
 #
 
