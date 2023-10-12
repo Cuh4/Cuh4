@@ -3,13 +3,14 @@
 ![Information](resources/information.png)
 ### Heyo, I'm Cuh4.
 <p align="center">
-I am a <b>self-taught</b> programmer from the <b>United Kingdom</b> (yuck) that absolutely sucks at crafting commit messages.
-I'm mainly known for<b>creating addons</b> in a videogame titled <b>Stormworks: Build and Rescue</b>. I also conveniently host a few <a href="https://dsc.gg/cuhhubsw">multiplayer servers (cuhHub)</a> on the same game for people to play on and mess around together.
-
-I only speak English, just an FYI.
-
-**Discord:** `@cuh6_` / `@cuh5_`
+    I am a <b>self-taught</b> programmer from the <b>United Kingdom</b> (yuck) that absolutely sucks at crafting commit messages.
+    I'm mainly known for<b>creating addons</b> in a videogame titled <b>Stormworks: Build and Rescue</b>. I also conveniently host a few <a href="https://dsc.gg/cuhhubsw">multiplayer servers (cuhHub)</a> on the same game for people to play on and mess around together.
 </p>
+
+<p align="center"> I only speak English, just an FYI. </p>
+
+<p align="center"> <b>Discord:</b> @cuh6_ </p>
+
 
 ![Separator](resources/separator.png)
 
