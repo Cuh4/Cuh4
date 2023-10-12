@@ -11,9 +11,11 @@
     I only speak English, just an FYI.
 </p>
 
-<p align="center">
-    <b>Discord:</b> @cuh6_
-</p>
+<b>
+    <p align="center">
+        Discord: @cuh6_
+    </p>
+</b>
 
 ![Separator](resources/separator.png)
 
