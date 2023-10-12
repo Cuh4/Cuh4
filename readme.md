@@ -15,7 +15,6 @@
     <b>Discord:</b> @cuh6_
 </p>
 
-
 ![Separator](resources/separator.png)
 
 ![Languages](resources/languages.png)
