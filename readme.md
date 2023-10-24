@@ -89,6 +89,18 @@ This section will show off **most of my best** projects, check 'em out!
 
 <h3>
     <p align="center">
+        <a href="https://github.com/Cuh4/PianoTilesBot">Piano Tiles Bot</a>
+    </p>
+</h3>
+
+<p align="center">
+    A simple bot that automatically plays a Piano Tiles game for you. Uses pixel color tracking and mouse automation for the bot side of things.
+</p>
+
+#
+
+<h3>
+    <p align="center">
         <a href="https://github.com/Cuh4/AllCreaturesHateYou">All Creatures Hate You</a>
     </p>
 </h1>
