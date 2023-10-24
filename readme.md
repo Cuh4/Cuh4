@@ -53,6 +53,30 @@ This section will show off **most of my best** projects, check 'em out!
 
 <h3>
     <p align="center">
+        <a href="https://github.com/Cuh4/messageFetch">Message Fetch</a>
+    </p>
+</h3>
+
+<p align="center">
+    Discord bot that retrieves x amount of messages in a specified channel and dumps it into a .json file. Somewhat configurable. Quite rushed, but the code is nice.
+</p>
+
+#
+
+<h3>
+    <p align="center">
+        <a href="https://github.com/Cuh4/DiscordChatbot">Discord Chatbot</a>
+    </p>
+</h3>
+
+<p align="center">
+    Discord bot that, when pinged, replies with an AI-generated response. The chatbot aspect of the bot utilises the ChatterBot Python package.
+</p>
+
+#
+
+<h3>
+    <p align="center">
         <a href="https://github.com/Cuh4/AuroraFramework">Aurora Framework</a>
     </p>
 </h3>
