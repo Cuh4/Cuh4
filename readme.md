@@ -13,7 +13,7 @@
 
 <b>
     <p align="center">
-        Discord: @cuh6_ | <a href="discord.gg/CymKaDE2pj">discord.gg/CymKaDE2pj</a>
+        Discord: @cuh6_ | <a href="https://discord.gg/CymKaDE2pj">discord.gg/CymKaDE2pj</a>
     </p>
 </b>
 
