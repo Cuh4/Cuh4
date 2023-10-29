@@ -65,6 +65,18 @@ This section will show off **most of my best** projects, check 'em out!
 
 <h3>
     <p align="center">
+        <a href="https://github.com/Cuh4/DiscordChatbotV2">Discord Chatbot V2</a>
+    </p>
+</h3>
+
+<p align="center">
+    Discord bot that replies with an appropriately-fitting pre-generated response when pinged. This bot allows users to train itself using slash commands and modals.
+</p>
+
+#
+
+<h3>
+    <p align="center">
         <a href="https://github.com/Cuh4/DiscordChatbot">Discord Chatbot</a>
     </p>
 </h3>
