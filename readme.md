@@ -13,24 +13,19 @@
 
 <b>
     <p align="center">
-        Discord: @cuh6_ | <a href="https://discord.gg/CymKaDE2pj">discord.gg/CymKaDE2pj</a>
+        Discord: @cuh6_ | <a href="https://discord.gg/CymKaDE2pj">My Showcase Server</a>
     </p>
 </b>
 
 ![Separator](resources/separator.png)
 
 ![Languages](resources/languages.png)
-<h3>
-    <p align="center">
-        Lua | 2+ year(s)
-    </p>
-</h3>
-
-<h3>
-    <p align="center">
-        Python | 1+ year(s)
-    </p>
-</h3>
+- ## Lua
+    - 2+ years of experience.
+    - Primary language
+- ## Python
+    - 1+ years of experience
+    - Secondary language
 
 > [!WARNING]\
 > I'm planning to learn more programming languages soon, particularly JavaScript so I can get into proper web development.
