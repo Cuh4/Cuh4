@@ -32,7 +32,8 @@
     </p>
 </h3>
 
-> `⚠` **Note** - I'm planning to learn more programming languages soon, particularly JavaScript so I can get into proper web development.
+> [!WARNING]\
+> I'm planning to learn more programming languages soon, particularly JavaScript so I can get into proper web development.
 
 ![Separator](resources/separator.png)
 
@@ -136,4 +137,5 @@ This section will show off **most of my best** projects, check 'em out!
 
 #
 
-> `⚠` **Note** - Check out more of my projects [here](https://github.com/Cuh4?tab=repositories). Note that some of my best projects are private.
+> [!WARNING]\
+> Check out more of my projects [here](https://github.com/Cuh4?tab=repositories). Note that some of my best projects are private.
