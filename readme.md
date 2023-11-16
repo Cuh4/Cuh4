@@ -49,12 +49,12 @@ This section will show off **most of my best** projects, check 'em out!
 
 <h3>
     <p align="center">
-        <a href="https://github.com/Cuh4/messageFetch">Message Fetch</a>
+        <a href="https://github.com/Cuh4/QuoteBot">Quote Bot</a>
     </p>
 </h3>
 
 <p align="center">
-    Discord bot that retrieves x amount of messages in a specified channel and dumps it into a .json file. Somewhat configurable. Quite rushed, but the code is nice.
+    A Discord bot that saves messages as quotes when instructed through slash commands. A random or specific quote can then be retrieved at any time.
 </p>
 
 #
@@ -115,19 +115,6 @@ This section will show off **most of my best** projects, check 'em out!
 
 <p align="center">
     This is yet another addon for Stormworks: Build and Rescue. This addon effectively makes all creatures chase you down and kill you. The code is pretty clean too.
-</p>
-
-
-#
-
-<h3>
-    <p align="center">
-        <a href="https://github.com/Cuh4/NextbotAddon">Nextbot Addon</a>
-    </p>
-</h3>
-
-<p align="center">
-    This addon is quite scrapped, but I felt that the code was very clean hence why I plopped this here. 
 </p>
 
 #
