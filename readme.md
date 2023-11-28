@@ -1,10 +1,10 @@
-![(Profile Picture) Cuh4](resources/cuh4.png)
-
-![Information](resources/information.png)
 # Heyo, I'm Cuh4.
 <p align="center">
-    I am a <b>self-taught</b> programmer from the <b>United Kingdom</b> (yuck) that absolutely sucks at crafting commit messages.
-    I'm mainly known for<b>creating addons</b> in a videogame titled <b>Stormworks: Build and Rescue</b>. I also conveniently host a few <a href="https://dsc.gg/cuhhubsw">multiplayer servers (cuhHub)</a> on the same game for people to play on and mess around together.
+    I am a <b>self-taught</b> programmer from the <b>United Kingdom</b> (yuck).
+</p>
+
+<p align="center">
+    I'm mainly known for <b>creating addons</b> in a videogame titled <b>Stormworks: Build and Rescue</b>. I also conveniently host a few <a href="https://dsc.gg/cuhhubsw">multiplayer servers (cuhHub)</a> on the same game for people to play on and mess around together.
 </p>
 
 <p align="center">
@@ -17,9 +17,11 @@
     </p>
 </b>
 
-![Separator](resources/separator.png)
+<p align="center">
+    <img src = "resources/separator.png">
+</p>
 
-![Languages](resources/languages.png)
+# Languages
 - ## Lua
     - 2+ years of experience.
     - Primary language
@@ -30,9 +32,11 @@
 > [!WARNING]\
 > I'm planning to learn more programming languages soon, particularly JavaScript so I can get into proper web development.
 
-![Separator](resources/separator.png)
+<p align="center">
+    <img src = "resources/separator.png">
+</p>
 
-![Showcase](resources/showcase.png)
+# Showcase
 This section will show off **most of my best** projects, check 'em out!
 
 <h3>
