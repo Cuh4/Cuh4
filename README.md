@@ -22,7 +22,6 @@
 # Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Cuh4&theme=dark&show_icons=true&custom_title=My+Stats&ring_color=1ac5f0)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cuh4&theme=dark)
 ---
 [![Aurora Framework](https://github-readme-stats.vercel.app/api/pin/?username=Cuh4&repo=AuroraFramework&theme=dark)](https://github.com/Cuh4/AuroraFramework)
 [![Quote Bot](https://github-readme-stats.vercel.app/api/pin/?username=Cuh4&repo=QuoteBot&theme=dark)](https://github.com/Cuh4/QuoteBot)
