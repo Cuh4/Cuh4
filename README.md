@@ -1,4 +1,9 @@
 # Cuh4
+[![My Discord Server](https://img.shields.io/discord/1167317932095848548?style=for-the-badge&logo=discord)](https://discord.gg/CymKaDE2pj)
+![GitHub Followers](https://img.shields.io/github/followers/Cuh4?style=for-the-badge&logo=github)
+[![Twitter Account](https://img.shields.io/twitter/follow/cuh4444?style=for-the-badge&logo=twitter&color=1f1e1e)](https://twitter.com/cuh4444)
+
+---
 
 - 😎 | **Heyo, I'm a self-taught programmer from the UK.**
 - 🎫 | **At the moment, I know both `Lua` and `Python`.**
@@ -10,6 +15,9 @@
     - **[Welcome Bot](https://github.com/Cuh4/WelcomeBot)** - A Discord bot that welcomes new users into your server.
     - **😔 | Some of my best projects are private.**
     - **✨ | Check out more [here.](https://github.com/Cuh4?tab=repositories)**
+
+# Skills
+[![My Skills](https://skillicons.dev/icons?i=lua,py,github,flask,bots,discord,css,html,md,sqlite,mysql,replit,vscode)](https://skillicons.dev)
 
 # Stats
 
