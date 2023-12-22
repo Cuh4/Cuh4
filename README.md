@@ -17,17 +17,7 @@
     - **✨ | Check out more [here.](https://github.com/Cuh4?tab=repositories)**
 
 # Skills
-<style>
-    .skill-row {
-        display: flex;
-        justify-content: space-between;
-    }
-</style>
-
-<div class = "skill-row">
-    <img src = "https://skillicons.dev/icons?icons=lua,py"/>
-    <img src = "https://skillicons.dev/icons?icons=github,flask,bots,discord,css,html,md,sqlite,mysql,replit,vscode"/>
-</div>
+![My Skills](https://skillicons.dev/icons?icons=lua,py,,github,flask,bots,discord,css,html,md,sqlite,mysql,replit,vscode)
 
 # Stats
 
