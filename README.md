@@ -1,10 +1,11 @@
-# Cuh4
+# 👋 | Cuh4
+
 [![My Discord Server](https://img.shields.io/discord/1167317932095848548?style=for-the-badge&logo=discord)](https://discord.gg/CymKaDE2pj)
 ![GitHub Followers](https://img.shields.io/github/followers/Cuh4?style=for-the-badge&logo=github)
 [![Twitter Account](https://img.shields.io/twitter/follow/cuh4444?style=for-the-badge&logo=twitter&color=1f1e1e)](https://twitter.com/cuh4444)
 
----
 
+## 📚 | Overview
 - 😎 | **Heyo, I'm a self-taught programmer from the UK.**
 - 🎫 | **At the moment, I know both `Lua` and `Python`.**
 - 🎇 | **If you want to experiment with my Discord projects or hit me up, [join my Discord server.](https://discord.gg/CymKaDE2pj)**
@@ -16,10 +17,10 @@
     - **😔 | Some of my best projects are private.**
     - **✨ | Check out more [here.](https://github.com/Cuh4?tab=repositories)**
 
-# Skills
+## 💻 | Skills
 ![My Skills](https://skillicons.dev/icons?icons=lua,py,,github,flask,bots,discord,css,html,md,sqlite,mysql,replit,vscode)
 
-# Stats
+## 📖 | Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Cuh4&theme=dark&show_icons=true&custom_title=My+Stats&ring_color=1ac5f0)
 ---
 [![Aurora Framework](https://github-readme-stats.vercel.app/api/pin/?username=Cuh4&repo=AuroraFramework&theme=dark)](https://github.com/Cuh4/AuroraFramework)
