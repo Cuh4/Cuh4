@@ -17,7 +17,7 @@
     - **😔 | Some of my best projects are private.**
     - **✨ | Check out more [here.](https://github.com/Cuh4?tab=repositories)**
 
-## 🌐 | Organizations
+## 🌐 | GitHub Organizations
 - **[cuhHub](https://github.com/cuhHub)** - A Stormworks: Build and Rescue community hosting numerous servers.
 
 ## 💻 | Skills
