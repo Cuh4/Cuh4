@@ -1,9 +1,7 @@
 # 👋 | Cuh4
 
-[![My Discord Server](https://img.shields.io/discord/1167317932095848548?style=for-the-badge&logo=discord)](https://discord.gg/CymKaDE2pj)
-![GitHub Followers](https://img.shields.io/github/followers/Cuh4?style=for-the-badge&logo=github)
-[![Twitter Account](https://img.shields.io/twitter/follow/cuh4444?style=for-the-badge&logo=twitter&color=1f1e1e)](https://twitter.com/cuh4444)
-
+[![My Discord Server](https://img.shields.io/discord/1167317932095848548?style=for-the-badge&logo=discord&label=Discord+Server)](https://discord.gg/CymKaDE2pj)
+![GitHub Followers](https://img.shields.io/github/followers/Cuh4?style=for-the-badge&logo=github&color&label=GitHub+Followers)
 
 ## 📚 | Overview
 - 😎 | **Heyo, I'm a self-taught programmer from the UK.**
