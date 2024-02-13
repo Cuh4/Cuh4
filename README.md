@@ -11,7 +11,8 @@
     - **[Aurora Framework](https://github.com/Cuh4/AuroraFramework)** - A framework developers can use to easily create addons in Stormworks: Build and Rescue.
     - **[Stormworks Asteroids Addon](https://github.com/Cuh4/SWAsteroidsAddon)** - An addon for the game Stormworks: Build and Rescue which adds asteroids to space.
     - **[Discord Chatbot V2](https://github.com/Cuh4/DiscordChatbotV2)** - A Discord bot that replies with an appropriately-fitting pre-generated response when pinged. The bot can be taught through commands.
-    - **[Welcome Bot](https://github.com/Cuh4/WelcomeBot)** - A Discord bot that welcomes new users into your server.
+    - **[Stormworks Hunger System Addon](https://github.com/cuhHub/SWHungerAddon)** - An addon for the game Stormworks: Build and Rescue which adds a hunger system, making fishing more of a necessity.
+    ---
     - **😔 | Some of my best projects are private.**
     - **✨ | Check out more [here.](https://github.com/Cuh4?tab=repositories)**
 
@@ -27,4 +28,4 @@
 [![Aurora Framework](https://github-readme-stats.vercel.app/api/pin/?username=Cuh4&repo=AuroraFramework&theme=dark)](https://github.com/Cuh4/AuroraFramework)
 [![Stormworks Asteroids Addon](https://github-readme-stats.vercel.app/api/pin/?username=Cuh4&repo=SWAsteroidsAddon&theme=dark)](https://github.com/Cuh4/QuoteBot)
 [![Discord Chatbot V2](https://github-readme-stats.vercel.app/api/pin/?username=Cuh4&repo=DiscordChatbotV2&theme=dark)](https://github.com/Cuh4/DiscordChatbotV2)
-[![Welcome Bot](https://github-readme-stats.vercel.app/api/pin/?username=Cuh4&repo=WelcomeBot&theme=dark)](https://github.com/Cuh4/WelcomeBot)
+[![Stormworks Hunger Addon](https://github-readme-stats.vercel.app/api/pin/?username=cuhHub&repo=SWHungerAddon&theme=dark)](https://github.com/Cuh4/QuoteBot)
