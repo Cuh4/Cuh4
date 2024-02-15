@@ -26,6 +26,6 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Cuh4&theme=dark&show_icons=true&custom_title=My+Stats&ring_color=1ac5f0)
 ---
 [![Aurora Framework](https://github-readme-stats.vercel.app/api/pin/?username=Cuh4&repo=AuroraFramework&theme=dark)](https://github.com/Cuh4/AuroraFramework)
-[![Stormworks Asteroids Addon](https://github-readme-stats.vercel.app/api/pin/?username=Cuh4&repo=SWAsteroidsAddon&theme=dark)](https://github.com/Cuh4/QuoteBot)
+[![Stormworks Asteroids Addon](https://github-readme-stats.vercel.app/api/pin/?username=Cuh4&repo=SWAsteroidsAddon&theme=dark)](https://github.com/Cuh4/SWAsteroidsAddon)
 [![Discord Chatbot V2](https://github-readme-stats.vercel.app/api/pin/?username=Cuh4&repo=DiscordChatbotV2&theme=dark)](https://github.com/Cuh4/DiscordChatbotV2)
-[![Stormworks Hunger Addon](https://github-readme-stats.vercel.app/api/pin/?username=cuhHub&repo=SWHungerAddon&theme=dark)](https://github.com/Cuh4/QuoteBot)
+[![Stormworks Hunger Addon](https://github-readme-stats.vercel.app/api/pin/?username=cuhHub&repo=SWHungerAddon&theme=dark)](https://github.com/cuhHub/SWHungerAddon)
