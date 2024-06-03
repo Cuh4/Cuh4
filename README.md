@@ -10,7 +10,7 @@
 - 🎨 | **My best projects:**
     - **[Aurora Framework](https://github.com/Cuh4/AuroraFramework)** - A framework developers can use to easily create addons in Stormworks: Build and Rescue.
     - **[PythonToSW](https://github.com/Cuh4/PythonToSW)** - a Python package that allows you to create addons in Stormworks: Build and Rescue with Python using HTTP under the hood.
-    - **[Discord Chatbot V2](https://github.com/Cuh4/DiscordChatbotV2)** - A Discord bot that replies with an appropriately-fitting pre-generated response when pinged. The bot can be taught through commands.
+    - **[Noir](https://github.com/cuhHub/Noir)** - Yet another framework for creating addons in Stormworks: Build and Rescue. It is much cleaner than Aurora Framework.
     - **[Stormworks Hunger System Addon](https://github.com/cuhHub/SWHungerAddon)** - An addon for the game Stormworks: Build and Rescue which adds a hunger system, making fishing more of a necessity.
     ---
     - **😔 | Some of my best projects are private.**
@@ -27,5 +27,5 @@
 ---
 [![Aurora Framework](https://github-readme-stats.vercel.app/api/pin/?username=Cuh4&repo=AuroraFramework&theme=dark)](https://github.com/Cuh4/AuroraFramework)
 [![PythonToSW](https://github-readme-stats.vercel.app/api/pin/?username=Cuh4&repo=PythonToSW&theme=dark)](https://github.com/Cuh4/PythonToSW)
-[![Discord Chatbot V2](https://github-readme-stats.vercel.app/api/pin/?username=Cuh4&repo=DiscordChatbotV2&theme=dark)](https://github.com/Cuh4/DiscordChatbotV2)
+[![Noir](https://github-readme-stats.vercel.app/api/pin/?username=cuhHub&repo=Noir&theme=dark)](https://github.com/cuhHub/Noir)
 [![Stormworks Hunger Addon](https://github-readme-stats.vercel.app/api/pin/?username=cuhHub&repo=SWHungerAddon&theme=dark)](https://github.com/cuhHub/SWHungerAddon)
