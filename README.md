@@ -20,7 +20,7 @@
 - **[cuhHub](https://github.com/cuhHub)** - A Stormworks: Build and Rescue community hosting numerous servers.
 
 ## 💻 | Skills
-![My Skills](https://skillicons.dev/icons?icons=lua,py,,github,flask,bots,discord,css,html,md,sqlite,mysql,replit,vscode)
+![My Skills](https://skillicons.dev/icons?icons=lua,py,cs,,github,flask,bots,discord,css,html,md,sqlite,mysql,replit,vscode)
 
 ## 📖 | Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Cuh4&theme=dark&show_icons=true&custom_title=My+Stats&ring_color=1ac5f0)
