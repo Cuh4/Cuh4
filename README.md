@@ -7,8 +7,8 @@
 Heyo, I'm a passionate self-taught programmer from the UK.
 - 🎫 | I know `Lua` (3-4 years), `Python` (2 years) and `C# (learning)` (a few months).
 - 🎨 | My best projects (note that my better projects are private and aren't listed here):
-    - **[Noir](https://github.com/cuhHub/Noir)** - Yet another framework for creating addons in Stormworks: Build and Rescue. It is much cleaner than Aurora Framework and performs better. Aurora Framework is no longer maintained as a result.
-    - **[PythonToSW](https://github.com/Cuh4/PythonToSW)** - a Python package that allows you to create addons in Stormworks: Build and Rescue with Python using HTTP under the hood.
+    - **[Noir](https://github.com/cuhHub/Noir)** - A framework for creating addons in Stormworks: Build and Rescue that provides plenty of utility code along with a neat architecture for your addon to follow.
+    - **[PythonToSW](https://github.com/Cuh4/PythonToSW)** - A Python package that allows you to create addons in Stormworks: Build and Rescue with Python using HTTP under the hood.
     - **[Stormworks Raft Addon](https://github.com/cuhHub/Raft)** - An addon that brings the gameplay of the game Raft into Stormworks.
     - **[Stormworks Hunger System Addon](https://github.com/cuhHub/SWHungerAddon)** - An addon for the game Stormworks: Build and Rescue which adds a hunger system, making fishing more of a necessity.
     ---
